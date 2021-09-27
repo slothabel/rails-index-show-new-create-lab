@@ -39,4 +39,9 @@ group :development, :test do
   gem "factory_bot_rails"
   gem 'capybara'
   gem 'database_cleaner'
+  gem "sinatra"
+gem "pg"
+gem "activerecord"
+gem "sinatra-activerecord"
+
 end
